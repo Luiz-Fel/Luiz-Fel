@@ -1,10 +1,10 @@
-### Hi there 👋
+### What’s up? 🙋‍♂️
+
+## Im a student looking for improve my knowledge in front-end programming
 
 
-
-- 💻 Currently making some simple projects and focusing in learning about web development
+- 💻 Currently making some simple projects
 - 🌱 I’m currently learning HTML, CSS, SQL, Node, JavaScript and React
-- 🤔 I’m looking for help with React
 - 📫 How to reach me: e-mail: lfsprj@gmail.com
-
+- Fun fact: My favorite game gender is 4X
 
