@@ -1,6 +1,6 @@
 ### What’s up? 🙋‍♂️
 
-## Im a student looking for improve my knowledge in front-end programming
+## Im a student looking to improve my knowledge in front-end programming
 
 
 - 💻 Currently making some simple projects
