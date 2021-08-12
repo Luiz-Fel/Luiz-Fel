@@ -5,6 +5,6 @@
 
 - 💻 Currently making some simple projects
 - 🌱 I’m currently learning HTML, CSS, SQL, Node, JavaScript and React
-- 📫 How to reach me: e-mail: lfsprj@gmail.com
+- 📫 How to reach me: lfsprj@gmail.com
 - Fun fact: My favorite game gender is 4X
 
