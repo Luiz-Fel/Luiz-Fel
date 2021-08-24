@@ -5,6 +5,6 @@
 
 - 💻 Currently making some simple projects
 - 🌱 I’m currently learning HTML, CSS, SQL, Node, JavaScript and React
-- 📫 How to reach me: lfsprj@gmail.com
+- 📫 How to reach me: luizfelipesantospereira01@gmail.com
 - Fun fact: My favorite game genre is 4X
 
