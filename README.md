@@ -20,24 +20,21 @@
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 
-
 <br />
 <br />
-
 
 
 ---
 
 <br />
 
-<img aling="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Fel&layout=compact">
+<div justify-content="space-around"> 
+  <img height="180em" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Fel&layout=compact">
+  <img height="180em" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Luiz-Fel&hide=contribs">
 
-<img alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Luiz-Fel&hide=contribs">
+</div>
 
 ---
-
-<br />
-
 
 ### Reach me:
 
