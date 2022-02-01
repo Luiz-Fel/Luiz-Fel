@@ -28,17 +28,15 @@
 
 <br />
 
-<div> 
+<div align="center"> 
   
   <img height="180em" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Fel&layout=compact">
-
+  <img align="right" height="180em" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Luiz-Fel&hide=contribs">
 </div>
 
 ---
 
 ### Reach me:
-
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luiz-felipe-653b7a1a5/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:luizfelipesantospereira01@gmail.com)
-[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/251484386669625345/)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luiz-felipe-653b7a1a5/)
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:luizfelipesantospereira01@gmail.com)
+  [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/251484386669625345/)
