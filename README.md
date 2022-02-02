@@ -28,10 +28,10 @@
 
 <br />
 
-<div > 
+<div> 
   
   <img height="180em" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Fel&layout=compact">
-  <img align="right" height="180em" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Luiz-Fel&hide=contribs">
+  <img align="right" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Luiz-Fel&hide=contribs">
 </div>
 
 ---
