@@ -3,7 +3,7 @@
 ## Im Luiz-Fel, a passionate student of web development
 
 
-- 💻 Currently creating react projects
+- 💻 Currently working on react projects
 - 🔭 Interested in Fullstack and Web Design, Current focus in Front-End
 - 🌱 I’m currently learning typescript, redux, react and next.js
 - ⚡ Fun fact: My favorite game genre is 4X
