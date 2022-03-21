@@ -5,6 +5,7 @@
 
 - 💻 Currently working on react projects
 - 🔭 Interested in Fullstack and Web Design, Current focus in Front-End
+- 💬 Ask me about anything, I am happy to help
 - 🌱 I’m currently learning typescript, redux, react and next.js
 - ⚡ Fun fact: My favorite game genre is 4X
 
