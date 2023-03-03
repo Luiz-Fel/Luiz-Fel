@@ -1,12 +1,12 @@
 # Hi there 👋
 
-## Im Luiz-Fel, a passionate student of web development
+## I'm Luiz-Fel, a web development enthusiast
 
 
 - 💻 Currently working on react projects
 - 🔭 Interested in Fullstack and Web Design, Current focus in Front-End
 - 💬 Ask me about anything, I am happy to help
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Django
 - ⚡ Fun fact: My favorite game genre is 4X
 
 ### Languages and Tools:
